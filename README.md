@@ -83,11 +83,7 @@ Caso esteja utilizando o GitHub, também é possível clonar o repositório:
 ```bash
 git clone https://github.com/abeatrizsm/TrabalhoGrafosAV3
 ```
-Entre na pasta do projeto:
-
-```bash
-cd nome-do-projeto
-```
+Entre na pasta do projeto
 
 Depois execute a classe Main
 
